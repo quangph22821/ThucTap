@@ -15,6 +15,13 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DetailComponent } from './pages/detail/detail.component';
 import { SalesComponent } from './pages/sales/sales.component';
 import { NotfoundComponent } from './pages/notfound/notfound.component';
+import { LayoutAdminComponent } from './admin/layout-admin/layout-admin.component';
+import { ListproductComponent } from './admin/pages/listproduct/listproduct.component';
+import { AddProductsComponent } from './admin/pages/add-products/add-products.component';
+import { UpdateProductsComponent } from './admin/pages/update-products/update-products.component';
+import { DashboardComponent } from './admin/components/dashboard/dashboard.component';
+import { HeaderAdminComponent } from './admin/components/header-admin/header-admin.component';
+import { FooterAdminComponent } from './admin/components/footer-admin/footer-admin.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +36,15 @@ import { NotfoundComponent } from './pages/notfound/notfound.component';
     ContactComponent,
     DetailComponent,
     SalesComponent,
-    NotfoundComponent
+    NotfoundComponent,
+    LayoutAdminComponent,
+   
+    ListproductComponent,
+        AddProductsComponent,
+        UpdateProductsComponent,
+        DashboardComponent,
+        HeaderAdminComponent,
+        FooterAdminComponent
   ],
   imports: [
     BrowserModule,
