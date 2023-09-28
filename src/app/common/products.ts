@@ -5,5 +5,4 @@ export class IProducts{
     img:string="";
     author:string="";
     desc:string=""
-
 }

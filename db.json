@@ -1,28 +1,28 @@
 {
-    "book": [
-        {
-            "id": 1,
-            "name": "Dỏaemon tạp dài hay",
-            "price": 20000,
-            "img": "https://down-vn.img.susercontent.com/file/6618adfc858fd831bd4a704268c9dd60",
-            "author": "Fujiko F Fujio",
-            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium natus quod eveniet aut perferendis distinctio iusto repudiandae,provident velit earum"
-        },
-        {
-            "id": 2,
-            "name": "Sách 1",
-            "price": 200000,
-            "img": "https://down-vn.img.susercontent.com/file/6618adfc858fd831bd4a704268c9dd60",
-            "author": "Fujiko F Fujio",
-            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium natus quod eveniet aut perferendis distinctio iusto repudiandae,provident velit earum"
-        },
-        {
-            "id": 3,
-            "name": "Sách 1",
-            "price": 200000,
-            "img": "https://down-vn.img.susercontent.com/file/6618adfc858fd831bd4a704268c9dd60",
-            "author": "Fujiko F Fujio",
-            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium natus quod eveniet aut perferendis distinctio iusto repudiandae,provident velit earum"
-        }
-    ]
+  "book": [
+    {
+      "name": "Dỏaemon tạp dài hay update",
+      "price": 20000,
+      "img": "https://down-vn.img.susercontent.com/file/6618adfc858fd831bd4a704268c9dd60",
+      "author": "Fujiko F Fujio",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium natus quod eveniet aut perferendis distinctio iusto repudiandae,provident velit earum",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Sách 1",
+      "price": 200000,
+      "img": "https://down-vn.img.susercontent.com/file/6618adfc858fd831bd4a704268c9dd60",
+      "author": "Fujiko F Fujio",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium natus quod eveniet aut perferendis distinctio iusto repudiandae,provident velit earum"
+    },
+    {
+      "id": "3",
+      "name": "Sách 1",
+      "price": 200000,
+      "img": "https://down-vn.img.susercontent.com/file/6618adfc858fd831bd4a704268c9dd60",
+      "author": "Fujiko F Fujio",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium natus quod eveniet aut perferendis distinctio iusto repudiandae,provident velit earum"
+    }
+  ]
 }

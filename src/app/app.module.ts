@@ -21,7 +21,7 @@ import { AddProductsComponent } from './admin/pages/add-products/add-products.co
 import { UpdateProductsComponent } from './admin/pages/update-products/update-products.component';
 import { DashboardComponent } from './admin/components/dashboard/dashboard.component';
 import { HeaderAdminComponent } from './admin/components/header-admin/header-admin.component';
-import { FooterAdminComponent } from './admin/components/footer-admin/footer-admin.component';
+
 
 @NgModule({
   declarations: [
@@ -44,7 +44,7 @@ import { FooterAdminComponent } from './admin/components/footer-admin/footer-adm
         UpdateProductsComponent,
         DashboardComponent,
         HeaderAdminComponent,
-        FooterAdminComponent
+      
   ],
   imports: [
     BrowserModule,
